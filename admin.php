@@ -3,7 +3,7 @@ error_reporting(0);
 ?>
 <?php include 'tab_style.php'; 
 ?>
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title></title>
